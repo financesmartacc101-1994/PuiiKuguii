@@ -1,4 +1,4 @@
-# NOVA HR · เวอร์ชัน 5
+# NOVA HR · เวอร์ชัน 5.4
 
 โครงสร้าง: Google Sheets เป็นฐานข้อมูล, Apps Script เป็น API, `public/` เป็นหน้าเว็บสำหรับ Netlify และ GitHub ใช้เก็บซอร์สโค้ด
 
